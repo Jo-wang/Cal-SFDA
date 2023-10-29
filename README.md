@@ -37,3 +37,29 @@ e.g.,
  - `plabel`: your pseudo label path.
   
  **Note**: run this experiment requires Weights & Biases to log the performance. Please install it in your own environment: `pip install wandb`
+
+## Acknowledgement
+- https://github.com/fumyou13/LDBE
+
+## Citation
+If you find our repository is helpful, please consider citing our paper
+
+      @article{DBLP:journals/corr/abs-2308-03003,
+  author       = {Zixin Wang and
+                  Yadan Luo and
+                  Zhi Chen and
+                  Sen Wang and
+                  Zi Huang},
+  title        = {Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable
+                  Expected Calibration Error},
+  journal      = {CoRR},
+  volume       = {abs/2308.03003},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2308.03003},
+  doi          = {10.48550/ARXIV.2308.03003},
+  eprinttype    = {arXiv},
+  eprint       = {2308.03003},
+  timestamp    = {Mon, 21 Aug 2023 17:38:10 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2308-03003.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
