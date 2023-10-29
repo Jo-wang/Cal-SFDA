@@ -39,7 +39,7 @@ e.g.,
  **Note**: run this experiment requires Weights & Biases to log the performance. Please install it in your own environment: `pip install wandb`
 
 ## Acknowledgement
-- https://github.com/Jo-wang/Cal-SFDA
+- https://github.com/fumyou13/LDBE
 
 ## Citation
 
